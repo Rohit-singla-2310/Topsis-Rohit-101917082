@@ -14,7 +14,7 @@ setup(
     description="It calculates topsis score of the data",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/uditvashisht/saral-square",
+    url="https://github.com/Rohit-singla-2310/Topsis-Rohit-101917082",
     author="Rohit Singla",
     author_email="rsingla_be19@thapar.edu",
     license="MIT",
