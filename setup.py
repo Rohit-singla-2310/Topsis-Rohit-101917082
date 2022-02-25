@@ -27,7 +27,7 @@ setup(
     py_modules=["Topsis-Rohit-101917082"],
     package_dir={'': 'src'},
     include_package_data=True,
-    install_requires=['pandas', 'numpy'],
+    install_requires=[],
     # entry_points={
     #     "console_scripts": [
     #         "square=square.__main__:main",
