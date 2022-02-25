@@ -10,7 +10,7 @@ README = (HERE / "README.md").read_text()
 # This call to setup() does all the work
 setup(
     name="Topsis-Rohit-101917082",
-    version="0.0.1",
+    version="1.0.0",
     description="It calculates topsis score of the data",
     long_description=README,
     long_description_content_type="text/markdown",
@@ -27,7 +27,7 @@ setup(
     py_modules=["Topsis-Rohit-101917082"],
     package_dir={'': 'src'},
     include_package_data=True,
-    install_requires=['pandas', 'numpy', 'math'],
+    install_requires=['pandas', 'numpy'],
     # entry_points={
     #     "console_scripts": [
     #         "square=square.__main__:main",
